@@ -1,0 +1,1 @@
+This Jupyter notebook contains the implementation of trading strategies developed for the Optiver Quantitative Trading Competition. The strategies focus on predicting price movements and optimizing trade executions to maximize returns.
